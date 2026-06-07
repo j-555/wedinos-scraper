@@ -1,0 +1,673 @@
+{
+  "generatedAt": "2026-06-06T22:08:27.990803+00:00",
+  "totals": {
+    "scraped": 1172,
+    "analysed": 1111,
+    "notAnalysed": 61,
+    "adulterantMismatches": 143,
+    "mismatchRate": "12.9%",
+    "highRiskFinds": 118
+  },
+  "highRiskSubstanceCounts": {
+    "ethylbromazolam": 40,
+    "5f-adb": 17,
+    "bromazolam": 16,
+    "medetomidine": 13,
+    "mdmb-4en-pinaca": 12,
+    "clobromazolam": 8,
+    "metonitazene": 6,
+    "mdmb-inaca": 5,
+    "clonazolam": 5,
+    "etizolam": 3,
+    "etonitazene": 2,
+    "protonitazene": 1
+  },
+  "topPurchaseIntents": {
+    "diazepam": 158,
+    "mdma": 59,
+    "cocaine": 58,
+    "heroin": 49,
+    "ketamine": 44,
+    "alprazolam": 37,
+    "valium": 32,
+    "not stated": 29,
+    "zopiclone": 23,
+    "pregabalin": 23,
+    "xanax": 19,
+    "lorazepam": 19,
+    "unknown": 18,
+    "cannabis": 17,
+    "clonazepam": 14,
+    "4mmc": 13,
+    "diazepam 10mg": 12,
+    "thc": 12,
+    "tramadol": 11,
+    "vape": 10
+  },
+  "topSampleForms": {
+    "tablet": 579,
+    "powder": 181,
+    "liquid": 80,
+    "crystalline": 78,
+    "capsule": 64,
+    "solid": 34,
+    "not stated": 25,
+    "granules": 24,
+    "plant matter": 23,
+    "other": 9
+  },
+  "topConsumptionMethods": {
+    "not stated": 674,
+    "oral": 280,
+    "smoked": 70,
+    "snort / sniff": 55,
+    "vaped": 17,
+    "intravenous": 11,
+    "intramuscular": 3,
+    "drwy’r geg": 1
+  },
+  "mismatchByIntent": {},
+  "recentSamples": [
+    {
+      "referenceCode": "W100054",
+      "analysed": true,
+      "dateReceived": "06/06/2026",
+      "purchaseIntent": "valium",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "CW9",
+      "packageLabel": "marin dow- a",
+      "sampleColour": "Glas",
+      "sampleForm": "Tabled",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100010",
+      "analysed": true,
+      "dateReceived": "06/06/2026",
+      "purchaseIntent": "Zopiclone",
+      "majorSubstancesRaw": "Zopiclone",
+      "majorSubstancesArray": [
+        "Zopiclone"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "SA13",
+      "packageLabel": "Not stated",
+      "sampleColour": "Gwyn",
+      "sampleForm": "Tabled",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100020",
+      "analysed": true,
+      "dateReceived": "06/06/2026",
+      "purchaseIntent": "Diazepam",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "SR3",
+      "packageLabel": "Accord Diazepam 5mg",
+      "sampleColour": "Melyn",
+      "sampleForm": "Tabled",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "000232000",
+      "analysed": true,
+      "dateReceived": "06/06/2026",
+      "purchaseIntent": "Nitrazepam",
+      "majorSubstancesRaw": "Nitrazepam",
+      "majorSubstancesArray": [
+        "Nitrazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "SY16",
+      "packageLabel": "Nitrazepam",
+      "sampleColour": "Gwyn",
+      "sampleForm": "Tabled",
+      "consumptionMethod": "Drwy’r geg",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100279",
+      "analysed": true,
+      "dateReceived": "06/06/2026",
+      "purchaseIntent": "heroin",
+      "majorSubstancesRaw": "Acetylcodeine\nHeroin\nMorphine, 6 Monoacetyl\nNoscapine\nPapaverine",
+      "majorSubstancesArray": [
+        "Acetylcodeine",
+        "Heroin",
+        "Morphine, 6 Monoacetyl",
+        "Noscapine",
+        "Papaverine"
+      ],
+      "minorSubstancesRaw": "Etonitazene\nMedetomidine\nMetonitazene\nTetracaine",
+      "minorSubstancesArray": [
+        "Etonitazene",
+        "Medetomidine",
+        "Metonitazene",
+        "Tetracaine"
+      ],
+      "postcode": "EH54",
+      "packageLabel": "Not stated",
+      "sampleColour": "Brown",
+      "sampleForm": "Powder",
+      "consumptionMethod": "Intravenous",
+      "selfReportedEffects": [
+        "Euphoria",
+        "Memory loss",
+        "Depression",
+        "Loss of consciousness"
+      ],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [
+        "Etonitazene",
+        "Medetomidine",
+        "Metonitazene"
+      ],
+      "alert": true
+    },
+    {
+      "referenceCode": "000039753",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "DIAZEPAM",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "LL77",
+      "packageLabel": "Not stated",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100760",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "naltrexone",
+      "majorSubstancesRaw": "Naltrexone",
+      "majorSubstancesArray": [
+        "Naltrexone"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "CF64",
+      "packageLabel": "naltrexone",
+      "sampleColour": "White",
+      "sampleForm": "Capsule",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "No effect",
+        "Panic attack"
+      ],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100769",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ZOLPIDEM",
+      "majorSubstancesRaw": "Zolpidem",
+      "majorSubstancesArray": [
+        "Zolpidem"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "SO40",
+      "packageLabel": "CRESCENT ZOLPIDEM 10MG",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "No effect"
+      ],
+      "scrapedAt": "2026-06-06T21:48:57.584835+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100775",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "AMPHETAMINE",
+      "majorSubstancesRaw": "Caffeine",
+      "majorSubstancesArray": [
+        "Caffeine"
+      ],
+      "minorSubstancesRaw": "Amphetamine",
+      "minorSubstancesArray": [
+        "Amphetamine"
+      ],
+      "postcode": "EH15",
+      "packageLabel": "SPEED",
+      "sampleColour": "White",
+      "sampleForm": "Powder",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "No effect"
+      ],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100762",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ZOPICLONE",
+      "majorSubstancesRaw": "Zopiclone",
+      "majorSubstancesArray": [
+        "Zopiclone"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "RH10",
+      "packageLabel": "ZOPICLONE",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "Relaxed",
+        "Paranoia",
+        "Memory loss",
+        "Confusion",
+        "Agitation",
+        "Insomnia",
+        "Depression",
+        "Suicidal ideation",
+        "Loss of consciousness"
+      ],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100682",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "BLUES",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "PR32",
+      "packageLabel": "VALIUM",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100684",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ZOPICLONE",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "PR32",
+      "packageLabel": "Not stated",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100766",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "MDMA",
+      "majorSubstancesRaw": "MDMA",
+      "majorSubstancesArray": [
+        "MDMA"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "WF1",
+      "packageLabel": "Not stated",
+      "sampleColour": "Brown\n                                  Grey",
+      "sampleForm": "Crystalline",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W076283",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "XANAX",
+      "majorSubstancesRaw": "Alprazolam",
+      "majorSubstancesArray": [
+        "Alprazolam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "PL97",
+      "packageLabel": "ALPRX-1 ALPRAZOLAM",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100750",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ECTASY",
+      "majorSubstancesRaw": "MDMA",
+      "majorSubstancesArray": [
+        "MDMA"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "WV10",
+      "packageLabel": "Q-DANCE",
+      "sampleColour": "Grey\n                                  Orange",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100748",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ECTASY",
+      "majorSubstancesRaw": "MDMA",
+      "majorSubstancesArray": [
+        "MDMA"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "WV10",
+      "packageLabel": "SOUNDCLOUD",
+      "sampleColour": "Orange\n                                  Red",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:04.397854+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100747",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "GALENIKA BENSEDIN",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "WV10",
+      "packageLabel": "BENSEDIN",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100784",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "VALIUM 10MG",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "BD4",
+      "packageLabel": "VALIUM 10MG",
+      "sampleColour": "Blue",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "000239691",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "SUSPECTED DIAZEPAM",
+      "majorSubstancesRaw": "Ethylbromazolam",
+      "majorSubstancesArray": [
+        "Ethylbromazolam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "NP4",
+      "packageLabel": "Not stated",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [
+        "Ethylbromazolam"
+      ],
+      "alert": true
+    },
+    {
+      "referenceCode": "W100770",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "DIAZEPAM",
+      "majorSubstancesRaw": "Diazepam",
+      "majorSubstancesArray": [
+        "Diazepam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "SO40",
+      "packageLabel": "ACCORD DIAZEPAM 5MG",
+      "sampleColour": "Yellow",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W076285",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "XANAX",
+      "majorSubstancesRaw": "Alprazolam",
+      "majorSubstancesArray": [
+        "Alprazolam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "OX49",
+      "packageLabel": "FELIX PHARMACIA, ALPRAZOLAM",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100736",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "ALPRAZOLAM 1MG",
+      "majorSubstancesRaw": "Alprazolam",
+      "majorSubstancesArray": [
+        "Alprazolam"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "BT2",
+      "packageLabel": "Not stated",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "Chest pains",
+        "Vomiting",
+        "No effect",
+        "Panic attack"
+      ],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100559",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "MDMA",
+      "majorSubstancesRaw": "N-Ethylpentylone",
+      "majorSubstancesArray": [
+        "N-Ethylpentylone"
+      ],
+      "minorSubstancesRaw": "Pentylone",
+      "minorSubstancesArray": [
+        "Pentylone"
+      ],
+      "postcode": "N3",
+      "packageLabel": "Not stated",
+      "sampleColour": "Colourless\n                                  White",
+      "sampleForm": "Crystalline",
+      "consumptionMethod": "Not stated",
+      "selfReportedEffects": [],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "000237981",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "Diazepam",
+      "majorSubstancesRaw": "Zopiclone",
+      "majorSubstancesArray": [
+        "Zopiclone"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "CF40",
+      "packageLabel": "Diazepam",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "Empathy",
+        "Relaxed"
+      ],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    },
+    {
+      "referenceCode": "W100831",
+      "analysed": true,
+      "dateReceived": "19/05/2026",
+      "purchaseIntent": "Dihydrocodeine",
+      "majorSubstancesRaw": "Dihydrocodeine",
+      "majorSubstancesArray": [
+        "Dihydrocodeine"
+      ],
+      "minorSubstancesRaw": "Not stated",
+      "minorSubstancesArray": [],
+      "postcode": "CF24",
+      "packageLabel": "Dihydrocodeine",
+      "sampleColour": "White",
+      "sampleForm": "Tablet",
+      "consumptionMethod": "Oral",
+      "selfReportedEffects": [
+        "Euphoria"
+      ],
+      "scrapedAt": "2026-06-06T21:49:11.161479+00:00",
+      "adulterantMismatch": false,
+      "highRiskSubstances": [],
+      "alert": false
+    }
+  ]
+}
