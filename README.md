@@ -46,25 +46,25 @@ playwright install chromium
 
 ```bash
 # full scrape
-python3 scrape.py
+python scrape.py
 
 # first 5 pages only (test)
-python3 scrape.py --max-pages 5
+python scrape.py --max-pages 5
 
 # resume from page 10
-python3 scrape.py --from-page 10
+python scrape.py --from-page 10
 
 # resume from a saved checkpoint
-python3 scrape.py --checkpoint output/checkpoint-page-50.json
+python scrape.py --checkpoint output/checkpoint-page-50.json
 
 # custom output directory
-python3 scrape.py --output ./data
+python scrape.py --output ./data
 
 # slower delay between pages
-python3 scrape.py --delay 2.0
+python scrape.py --delay 2.0
 
 # visible browser (useful for debugging)
-python3 scrape.py --no-headless
+python scrape.py --no-headless
 ```
 
 ---
