@@ -85,7 +85,7 @@ all output is written to `./output/` (or whatever you set with `--output`).
 
 ## dataset snapshot
 
-scraped **06 june 2026**. records span **may 2002 to june 2026**.
+scraped **06 june 2026**. records span **may 2002 (potentially a date error on wedinos' end) to june 2026**.
 
 | metric | value |
 |---|---|
