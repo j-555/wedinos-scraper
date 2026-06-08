@@ -176,7 +176,7 @@ found across 118 samples.
 
 ## what you can do with this data
 
-this is a real-world lab-tested dataset going back to 2002. for a harm reduction site, some practical uses:
+this is a real-world lab-tested dataset going back to 2002 (again, potential error on wedinos' end). for a harm reduction site, some practical uses:
 
 **live alerts feed** - run the scraper on a schedule and surface new high-risk finds (the `alert` flag makes this easy to filter). if nitazenes or novel benzos are showing up in a postcode area, that's worth publishing as a warning.
 
@@ -210,7 +210,7 @@ this is a real-world lab-tested dataset going back to 2002. for a harm reduction
   "sampleForm":           "Powder",
   "consumptionMethod":    "Insufflation",
   "selfReportedEffects":  ["Euphoria", "Increased energy"],
-  "scrapedAt":            "2024-06-01T12:00:00+00:00",
+  "scrapedAt":            "2026-06-01T12:00:00+00:00",
   "adulterantMismatch":   false,
   "highRiskSubstances":   [],
   "alert":                false
@@ -224,7 +224,7 @@ unanalysed records:
   "referenceCode": "W99999",
   "analysed":      false,
   "reason":        "No postcode supplied",
-  "scrapedAt":     "2024-06-01T12:00:00+00:00"
+  "scrapedAt":     "2026-06-01T12:00:00+00:00"
 }
 ```
 
